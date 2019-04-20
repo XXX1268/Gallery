@@ -1,0 +1,136 @@
+.photo {
+	width: calc(50% - 40px);
+	height: calc((35vw - 40px) / 16 * 9);
+	margin: 10px;
+	background-color: orange;
+}
+
+.photo:hover {
+	transform: scale(1.09);
+	transition: all 0.5s ease 0.1s;
+}
+
+
+.photo01 {
+	background: url(../img/1.jpg);
+	background-size: 100% 100%;
+}
+
+.photo02 {
+	background: url(../img/2.jpg);
+	background-size: 100% 100%;
+}
+
+
+.photo03 {
+	background: url(../img/3.jpg);
+	background-size: 100% 100%;
+}
+
+.photo04 {
+	background: url(../img/4.jpg);
+	background-size: 100% 100%;
+}
+
+.photo05 {
+	background: url(../img/5.jpg);
+	background-size: 100% 100%;
+}
+
+.photo06 {
+	background: url(../img/6.jpg);
+	background-size: 100% 100%;
+}
+
+.photo07 {
+	background: url(../img/7.jpg);
+	background-size: 100% 100%;
+}
+
+.photo08 {
+	background: url(../img/8.jpg);
+	background-size: 100% 100%;
+}
+
+.photo09 {
+	background: url(../img/9.jpg);
+	background-size: 100% 100%;
+}
+
+.photo10 {
+	background: url(../img/10.jpg);
+	background-size: 100% 100%;
+}
+
+.photo11 {
+	background: url(../img/11.jpg);
+	background-size: 100% 100%;
+}
+
+.photo12 {
+	background: url(../img/12.jpg);
+	background-size: 100% 100%;
+}
+
+.photo13 {
+	background: url(../img/13.jpg);
+	background-size: 100% 100%;
+}
+
+.photo14 {
+	background: url(../img/14.jpg);
+	background-size: 100% 100%;
+}
+
+.photo15 {
+	background: url(../img/15.jpg);
+	background-size: 100% 100%;
+}
+
+.photo16 {
+	background: url(../img/16.jpg);
+	background-size: 100% 100%;
+}
+
+.photo17 {
+	background: url(../img/17.jpg);
+	background-size: 100% 100%;
+}
+
+.photo18 {
+	background: url(../img/18.jpg);
+	background-size: 100% 100%;
+}
+
+.photo19 {
+	background: url(../img/19.jpg);
+	background-size: 100% 100%;
+}
+
+.photo20 {
+	background: url(../img/20.jpg);
+	background-size: 100% 100%;
+}
+
+.photo21 {
+	background: url(../img/21.jpg);
+	background-size: 100% 100%;
+}
+
+.photo22 {
+	background: url(../img/22.jpg);
+	background-size: 100% 100%;
+}
+
+.photo23 {
+	background: url(../img/23.jpg);
+	background-size: 100% 100%;
+}
+
+.photo24 {
+	background: url(../img/24.jpg);
+	background-size: 100% 100%;
+
+	a:hover, a:active {
+		background-color: red;
+	}
