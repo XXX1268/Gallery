@@ -1,0 +1,17 @@
+@fout-face {
+	font-family: Roboto;
+	src: url(../founts/Roboto-Regular.ttf);
+}
+
+h1 {
+	width: 100%; 
+	text-align: center;
+	font-size: 48px;
+}
+
+
+h2 {
+	width: 100%; 
+	text-align: center;
+	font-size: 40px;
+}
